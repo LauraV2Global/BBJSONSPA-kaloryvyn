@@ -1,0 +1,19 @@
+{
+  "cloakup": {
+    "domain": "ih.kaloryvyn.lat",
+    "path": "/check",
+    "param": "SCaTSrR2Li"
+  },
+  "tracking": {
+    "script": "https://ih.kaloryvyn.lat/track.js?rtkcmpid=6977fb67cd32a9d73f0e95ad"
+  },
+  "vsl": {
+    "clickUrl": "https://ih.kaloryvyn.lat/click",
+    "playerId": "vid-696cffc3521058214ca817b2",
+    "playerScript": "https://scripts.converteai.net/0c720c90-e7e2-43bb-bf68-a9f95307d607/players/696cffc3521058214ca817b2/v4/player.js",
+    "smartPlayerScript": "https://scripts.converteai.net/lib/js/smartplayer-wc/v4/smartplayer.js"
+  },
+  "cta": {
+    "delay": 5000
+  }
+}
