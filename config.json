@@ -5,11 +5,11 @@
     "param": "SCaTSrR2Li"
   },
   "tracking": {
-    "script": "https://ih.kaloryvyn.lat/track.js?rtkcmpid=697e84140ac8fd40fc06b613"
+    "script": "https://ih.kaloryvyn.lat/track.js?rtkcmpid=6977fb67cd32a9d73f0e95ad"
   },
   "vsl": {
     "clickUrl": "https://ih.kaloryvyn.lat/click",
-    "playerId": "vid-697e83b16300fb8f8edecdc8",
+    "playerId": "vid-697e84140ac8fd40fc06b613",
     "playerScript": "https://scripts.converteai.net/0c720c90-e7e2-43bb-bf68-a9f95307d607/players/697e84140ac8fd40fc06b613/v4/player.js",
     "smartPlayerScript": "https://scripts.converteai.net/lib/js/smartplayer-wc/v4/smartplayer.js"
   },
@@ -17,5 +17,6 @@
     "delay": 5000
   }
 }
+
 
 
